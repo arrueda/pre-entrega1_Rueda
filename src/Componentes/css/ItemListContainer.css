@@ -1,0 +1,33 @@
+.contenedor-saludos{
+    width: 640px;
+    height: 200px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 19%);
+}
+
+.saludos-imagen{
+    height: 100%;
+    width: auto;
+    margin-left: -40px;
+    padding-right: 60px;
+}
+
+.saludo-nombre{
+    font-size: 18px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.saludo-texto{
+    font-size: 25px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 1.5rem;
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+  background-color: rgb(218, 215, 215);
+}
+
+h2{
+  max-width: 940px;
+  font-size: 2.5em;
+  font-family: sans-serif;
+  font-weight: 700px;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+.saludos-content{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
